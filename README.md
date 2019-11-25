@@ -83,7 +83,7 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass sich durch den Ein
       * 1.4.1 Siri
       * 1.4.2 Alexa
       * 1.4.2 Google Voice
-	  * 1.5 	Zielgruppe (Typische Nutzer von VOI)
+    * 1.5 Zielgruppe (Typische Nutzer von VOI)
 3.  Customer Journey  (konkrete Ebene) *(ca. 5.000 Zeichen mit Leerzeichen)*
     * 2.1 	Die herkömmliche Customer Journey erklärt
 	  * 2.2	Der Kaufentscheid (Purchase Abschnitt, Analog)
