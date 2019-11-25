@@ -35,7 +35,7 @@ mail@nilsmaeder.ch<br>
 
 # Problemstellung
 
-Kaufen wir online Produkte, trägt die visuelle Produktpräsentation einen grossen Beitrag zur Kaufentscheidung bei. Es ist daher nicht verwunderlich, dass praktisch jeder online Store die Produkte jeweils mit einem Bild oder Video bewirbt. Bei grösseren Investitionen oder Unentschlossenheit, ist teilweise sogar die Beratung vor Ort im Laden gewünscht. Wir sind also an physische Geräte oder lokale Geschäfte und Mitarbeiter angewiesen. Durch Smart Assistants  und Voice Interaction, welche auf dem Vormarsch sind, wird sich die Customer Journey in Zukunft verändern. Die Kaufentscheide werden spontaner, bedürfnisorientierten und ohne physisches Device getätigt.   
+Kaufen wir online Produkte, trägt die visuelle Produktpräsentation einen grossen Beitrag zur Kaufentscheidung bei. Es ist daher nicht verwunderlich, dass praktisch jeder online Store die Produkte jeweils mit einem Bild oder Video bewirbt. Bei grösseren Investitionen oder Unentschlossenheit, ist teilweise sogar die Beratung vor Ort im Laden gewünscht. Wir sind also an physische Geräte oder lokale Geschäfte mit Mitarbeiter angewiesen. Durch Smart Assistants  und Voice Interaction, welche auf dem Vormarsch sind, wird sich die Customer Journey in Zukunft verändern. Die Kaufentscheide werden spontaner, bedürfnisorientierten und ohne physisches Device getätigt.   
 
 # Zielsetzung und Erkenntnisinteresse
 
@@ -46,6 +46,11 @@ Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbei
 * Bestellung komplett ohne Gerät, mittels voice assistant.
 * Bestellung am Gerät, mittels voice assistant.
 * Beratung und Bestellung, ohne Gerät mittels voice assistant.
+
+### Quellen für die Fallbeispiele
+
+* [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
+
 
 ## Ziel der Arbeit
 
@@ -113,23 +118,21 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass sich durch den Ein
 # Literaturverzeichnis
 
 * [Manuela Lenzen: Künstliche Intelligenz: Was sie kann & was uns erwartet](https://books.google.ch/books/about/K%C3%BCnstliche_Intelligenz.html?id=-7VGDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
-* [Andre Hellwig, Dr. Sven Meister, Caroline Schneider, Prof. Dr. Wolfgang Deiters: Sprachassistenten in der ambulanten Pflege](https://www.researchgate.net/profile/Denny_Paulicke/publication/325697989_Aufgeschlossenheit_und_Fortbildungsinteresse_von_PflegeschulerInnen_zu_technischen_und_digitalen_Assistenzsystemen_Ergebnisse_einer_Onlineerhebung/links/5b1ebcb4aca272277fa6ff60/Aufgeschlossenheit-und-Fortbildungsinteresse-von-PflegeschuelerInnen-zu-technischen-und-digitalen-Assistenzsystemen-Ergebnisse-einer-Onlineerhebung.pdf#page=80)
-* [Jonas Bedford-Strohm, Voice First? Eine Analyse des Potentials von intelligenten Sprachassistenten am Beispiel Amazon Alexa](https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4)
-* [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
+* [Thomas Hörner: Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
+* [Sascha Zöller: Ja zur Digitalisierung. Mit der richtigen Einstellung die Zukunftsfähigkeit des Unternehmens sichern.](https://www.springer.com/de/book/9783658239589?wt_mc=ThirdParty.Wilex.3.EPR632.BookPage_eBook#otherversion=9783658239596)
+* [Greta Frohne: Erfolgsfaktoren von Online Customer Experience. Die Gestaltung von internetbasierten Kundenerlebnissen in der Konsumgüterbranche.](https://www.springer.com/de/book/9783658284862)
+* [Michael Räckers: Integration digitaler Sprachassistenten in den Kundenservice am Beispiel der Stadtwerke Leipzig.](https://dl.gi.de/handle/20.500.12116/20514)
+* [Katherine Taken Smith: Marketing via smart speakers: what should Alexa say?](https://www.tandfonline.com/doi/abs/10.1080/0965254X.2018.1541924?journalCode=rjsm20)
+
+
 
 # Quellenverzeichnis
+* [Wikipedia (2019). Intelligenter persönlicher Assistent.](https://de.wikipedia.org/wiki/Intelligenter_pers%C3%B6nlicher_Assistent)
+* [zukunftdeseinkaufens.de (2018). Die Customer Journey mit Amazon Echo & Alexa.](https://zukunftdeseinkaufens.de/customer-journey-amazon-echo-alexa/)
+* [wuv.de (2018). Sprich mit mir, denn ich weiß, wie du fühlst!.](https://www.wuv.de/digital/sprich_mit_mir_denn_ich_weiss_wie_du_fuehlst)
+* [xin.de (2018). OK Google: Was macht Siri im Marketing?
+](https://www.xing.com/communities/posts/ok-google-was-macht-siri-im-marketing-1015031270)
+* [locationinsider.de (2018) VOICE COMMERCE: WIE AUS ALEXA, GOOGLE ASSISTANT & CO DIE TOUCHPOINTS DER ZUKUNFT WERDEN.
+](https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/)
 
-* [Max Amordeluso: How Voice User Interfaces Can Improve the Lives of Older Adults Living Alone](https://www.linkedin.com/pulse/alexa-elderly-how-voice-user-interfaces-can-improve-max-amordeluso)
-* [Kate Darling: Why we have an emotional connection to robots](https://www.ted.com/talks/kate_darling_why_we_have_an_emotional_connection_to_robots)
-* [Pragati Verma: Why voice assistants are gaining traction in healthcare](https://samsungnext.com/whats-next/voice-assistants-ai-healthcare/)
-* [FORBES INSIGHTS: The Future Of Voice AI In Patient Care](https://www.forbes.com/sites/insights-intelai/2019/02/11/the-future-of-voice-ai-in-patient-care/#207c9616309c)
-* [FORBES INSIGHTS: AI That Understands Your Body Language](https://www.forbes.com/sites/insights-intelai/2019/02/11/ai-that-understands-your-body-language/#87d54e84055f)
-* [Deepti Deepak: Dispelling 5 Myths about the Impact of AI on Healthcare](https://medium.com/voice-tech-podcast/dispelling-5-myths-about-the-impact-of-ai-on-healthcare-how-voice-technology-is-revolutionizing-1b5a8138f170)
-* [Sumit Majumder,  Emad. Aghayi,  Moein Noferesti,  Hamidreza Memarzadeh-Tehran,  Tapas Mondal,  Zhibo Pang OrcID and  M. Jamal Deen: Smart Homes for Elderly Healthcare — Recent Advances and Research Challenges](https://www.mdpi.com/1424-8220/17/11/2496/htm)
-* [The Future Of Healthcare? Voice.](https://www.healthitoutcomes.com/doc/the-future-of-healthcare-voice-0001)
-* [Alexa is a terrible doctor](https://qz.com/1323940/alexa-is-a-terrible-doctor/)
-* [NHS health information available through Amazon's Alexa](https://www.gov.uk/government/news/nhs-health-information-available-through-amazon-s-alexa)
-* [Voice Analysis Tech Could Diagnose Disease](https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-disease/)
-* [Mayo Clinic study shows voice-analyzing app may be useful in heart disease diagnosis](https://www.mobihealthnews.com/content/mayo-clinic-study-shows-voice-analyzing-app-may-be-useful-heart-disease-diagnosis)
-    * [Result of Study Poster](https://pr.blonde20.com/wp-content/uploads/2016/11/Beyond-Verbal-and-Mayo-Clinic-CAD-Poster.jpg)
-* [Machine Learning In Practice: How Does Amazon's Alexa Really Work?](https://www.forbes.com/sites/bernardmarr/2018/10/05/how-does-amazons-alexa-really-work/#a29b55a1937f)
+
