@@ -50,6 +50,7 @@ Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbei
 ### Quellen für die Fallbeispiele
 
 * [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
+* [zukunftdeseinkaufens.de (2018). Die Customer Journey mit Amazon Echo & Alexa.](https://zukunftdeseinkaufens.de/customer-journey-amazon-echo-alexa/)
 
 
 ## Ziel der Arbeit
