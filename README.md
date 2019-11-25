@@ -51,6 +51,9 @@ Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbei
 
 * [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
 * [zukunftdeseinkaufens.de (2018). Die Customer Journey mit Amazon Echo & Alexa.](https://zukunftdeseinkaufens.de/customer-journey-amazon-echo-alexa/)
+* [locationinsider.de (2018) VOICE COMMERCE: WIE AUS ALEXA, GOOGLE ASSISTANT & CO DIE TOUCHPOINTS DER ZUKUNFT WERDEN.
+](https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/)
+
 
 
 ## Ziel der Arbeit
