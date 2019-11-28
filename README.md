@@ -8,7 +8,7 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 ### «Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Voice-Interaction» hinsichtlich der steigenden Dynamik verändert?»
 
-> Eine Analyse der Customer Journey im E-Commerce, mit dem Einsatz von «Voice-Interation»
+> Eine Analyse der Customer Journey, mit dem Einsatz von «Voice-Interation»
 
 ## Mentoring durch 
 
@@ -35,25 +35,18 @@ mail@nilsmaeder.ch<br>
 
 # Problemstellung
 
-Kaufen wir online Produkte, trägt die visuelle Produktpräsentation einen grossen Beitrag zur Kaufentscheidung bei. Es ist daher nicht verwunderlich, dass praktisch jeder online Store die Produkte jeweils mit einem Bild oder Video bewirbt. Bei grösseren Investitionen oder Unentschlossenheit, ist teilweise sogar die Beratung vor Ort im Laden gewünscht. Wir sind also an physische Geräte oder lokale Geschäfte mit Mitarbeiter angewiesen. Durch Smart Assistants  und Voice Interaction, welche auf dem Vormarsch sind, wird sich die Customer Journey in Zukunft verändern. Die Kaufentscheide werden spontaner, bedürfnisorientierten und ohne physisches Device getätigt.   
+Kaufen wir online Produkte, sind wir oftmals an ein Device gebunden. Doch der Mensch funktioniert nach dem Prinzip des geringsten Aufwandes, das gilt auch bei der Customer journey. Seit Jahren wurde der online Bestellprozess optimiert und effizienter gestaltet. Durch voice interaction und smart assistants, sind neue touch points hinzugekommen. In der USA erfreuen sich diese touch points grosser Beliebtheit und auch in Europa ist voice interaction auf dem Vormarsch. Sprache ist unsere beliebteste Interaktionsmöglichkeit, daher erstaunt diese Entwicklung nicht. Die Customer journey befindet sich in einem dynamischen Umfeld, das sich zum Ziel gemacht hat, dem Kunden das Einkaufen möglichst einfach zu machen.
 
 # Zielsetzung und Erkenntnisinteresse
 
 Das Ziel dieser Arbeit ist es eine Übersicht des aktuellen Stands der Sprachassistenten im E-Commerce aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, Siri und Google Home, die mögliche Unterstützung beim Kaufentscheid und die neue Customer Journey hinsichtlich der steigenden Dynamik aufzuzeigen.
 
-Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbeispielen im Vergleich mit der herkömmlichen Customer Journey augezeigt und verglichen. 
+Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbeispielen anhand der herkömmlichen Customer Journey aufgezeigt und verglichen. 
 
-* Bestellung komplett ohne Gerät, mittels voice assistant.
-* Bestellung am Gerät, mittels voice assistant.
-* Beratung und Bestellung, ohne Gerät mittels voice assistant.
-
-### Quellen für die Fallbeispiele
-
-* [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
-* [zukunftdeseinkaufens.de (2018). Die Customer Journey mit Amazon Echo & Alexa.](https://zukunftdeseinkaufens.de/customer-journey-amazon-echo-alexa/)
-* [locationinsider.de (2018) VOICE COMMERCE: WIE AUS ALEXA, GOOGLE ASSISTANT & CO DIE TOUCHPOINTS DER ZUKUNFT WERDEN.
-](https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/)
-
+* Online Checkin mittels Voice assistant. Wie hat sich die Customer joruney hinsichtlich der steigenden Dynamik verändert?
+[Google Assistant](https://wccftech.com/google-assistant-now-lets-you-check-in-to-flights-by-voice-and-more/)
+* Eine Bestellung bei Starbucks aufgeben mittels Voice Assistant. Wie hat sich die Customer Journey hinsichtlich der steigenden Dynamik verändert? [Starbuck – Alexa Skills](https://www.cnet.com/how-to/amazon-echo-how-to-order-starbucks-with-alexa/)
+* Informationen zur Bahn abrufen und Services der Deutschen Bahn über Voice assistant nutzen. Wie hat sich die Customer Joruney hinsichtlich der steigenden Dynamik verändert? [Deutsche Bahn – Smart services](https://www.deutschebahn.com/en/Digitalization_new/technology/innovations/Smart-services-the-Siri-for-train-travelers--4167438)
 
 
 ## Ziel der Arbeit
@@ -64,7 +57,7 @@ Die Anwendung von Sprachassistenten im E-Commerce wird an 2-3 konkreten Fallsbei
 * Anhand der Ergebnisse die folgende Frage beantworten: 
 «Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Voice-Interaction» hinsichtlich der steigenden Dynamik verändert?»
 
-Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass sich durch den Einsatz von Voice Interaction die Customer Journey hinsichtlich des Kaufverhaltens und der Produktpräsentation verändern wird. 
+Es wird erwartet, dass die Ergebnisse der Arbeit aufzeigen, dass sich durch den Einsatz von Voice Interaction die customer journey zugunsten des Users verändert hat und sich die neuen touch points in der customer journey durchsetzten werden. 
 
 ### Die folgenden Kernfrage sollen beantwortet werden:
 * Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Voice-Interaction» hinsichtlich der steigenden Dynamik verändert?
@@ -75,6 +68,7 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass sich durch den Ein
 * Wie hat sich die Customer Journey beim Kaufentscheid durch VOI verändert?
 * Welche Produkte werden am häufigsten über die Voice Assistants gekauft und inwiefern lassen sich diese Entscheidungen der Konsumenten durch spezifische Produkteigenschaften erklären/begründen? 
 * Wie müssen Hersteller die Customer Journey in Zukunft mit VOI gestalten?
+* Warum ist VOI so erfolgreich?
 
 # Vorläufige Gliederung
 
@@ -87,19 +81,22 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass sich durch den Ein
       * 1.4.1 Siri
       * 1.4.2 Alexa
       * 1.4.2 Google Voice
-    * 1.5 Zielgruppe (Typische Nutzer von VOI)
+    * 1.5	Warum ist VOI so beliebt?
+      
 3.  Customer Journey  (konkrete Ebene) *(ca. 5.000 Zeichen mit Leerzeichen)*
     * 2.1 	Die herkömmliche Customer Journey erklärt
-	  * 2.2	Der Kaufentscheid (Purchase Abschnitt, Analog)
-    * 2.3	Integration VOI beim Kaufentscheid (Neuer Touch-Point mit Voice)
+    * 2.2	Die neue Customer Jounrey
+    * 2.2	Was wird genutzt und warum?
+   
 3.  Fallbeispiele *(ca. 11.000 Zeichen mit Leerzeichen)*
-    * Bestellung komplett ohne Gerät, mittels voice assistant.
-    * Bestellung am Gerät, mittels voice assistant.
-    * Beratung und Bestellung, ohne Gerät mittels voice assistant.   
+    * Starbucks
+    * Check-In
+    * DB  
 4.  Diskussion (pro und contra) *(ca. 4.000 Zeichen mit Leerzeichen)*
-    * Geht Verkaufen über Voice Assitant wirklich?
-	  * Warum die klassische Customer Journey bestehen bleibt
-	  * Punkte anhand der Fallbeispiele aufzeigen
+	  * Warum die klassische Customer Journey (noch) bestehen bleibt
+	  * Punkte (Produkte und deren Attribute)  anhand der Fallbeispiele aufzeigen
+	  * VOI gehört die Zukunft
+	  * Was können Firmen schon heute machen?
 6.  Fazit *( ca. 3.000 Zeichen mit Leerzeichen)*
 
 # Zeitplan
