@@ -86,7 +86,7 @@ Es wird erwartet, dass die Ergebnisse der Arbeit aufzeigen, dass sich durch den 
 3.  Customer Journey  (konkrete Ebene) *(ca. 5.000 Zeichen mit Leerzeichen)*
     * 2.1 	Die herkömmliche Customer Journey erklärt
     * 2.2	Die neue Customer Jounrey
-    * 2.2	Was wird genutzt und warum?
+    * 2.2	Was wird gekauft und warum?
    
 3.  Fallbeispiele *(ca. 11.000 Zeichen mit Leerzeichen)*
     * Starbucks
